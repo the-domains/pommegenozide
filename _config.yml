@@ -1,0 +1,28 @@
+name: pommegenozide
+favicon: null
+layout_spectrum: 0.5356750139035285
+typography_spectrum: 0.19869250780902803
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7147488470654935
+  lightness: 0.4434726373292506
+  saturation: 0.6569130714051425
+  rhythmicContrast: 0.7693312603514642
+purpose: []
